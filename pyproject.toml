@@ -1,0 +1,6 @@
+[project]
+name = "text-analyzer"
+version = "0.1.0"
+description = "Аналіз тексту на Python"
+requires-python = ">=3.10"
+dependencies = []
